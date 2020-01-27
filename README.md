@@ -1,2 +1,2 @@
 # Market
-Design o a market
+Design of a market
