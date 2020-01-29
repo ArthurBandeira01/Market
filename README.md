@@ -31,6 +31,14 @@ Foi usado neste projeto: HTML5, CSS3 e JavaScript com framework JQuery, além do
 
 
 
+![pt2](https://user-images.githubusercontent.com/51682452/73356292-c5303100-4278-11ea-9912-daa0409b29b3.png)
+
+
+
+
+
+
+
 ![print2](https://user-images.githubusercontent.com/51682452/73272331-f5b49400-41c0-11ea-98e3-e8348d187d94.png)
 
 
@@ -39,7 +47,6 @@ Foi usado neste projeto: HTML5, CSS3 e JavaScript com framework JQuery, além do
 
 
 
-![pt2](https://user-images.githubusercontent.com/51682452/73356292-c5303100-4278-11ea-9912-daa0409b29b3.png)
 
 
 
